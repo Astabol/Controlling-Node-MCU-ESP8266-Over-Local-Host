@@ -1,0 +1,2 @@
+# Controlling-Node-MCU-ESP8266
+This is the project on Controlling the Node MCU ESP8266 over the local host. It creates an access point for the client. The client can access the NODE MCU ESP8266 with the valid SSID and Password. After connecting to the Node MCU ESP8266, the client can go to the browser and type default gateway address of the Node-MCU on the address bar, after pressing "Enter" the login page of the Node MCU ESP8266 appear on the screen. After entering the default Username and password the client can access the internal section of the Node MCU ESP8266. 
