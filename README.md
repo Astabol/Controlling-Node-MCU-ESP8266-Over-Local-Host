@@ -12,6 +12,7 @@ Step2: Open Serial Monitor within 5 Second after uploading code and enter “r�
 After sending “r” to the Node MCU ESP8266 it writes default value to the EEPROM.
 
 The defaults values:
+
 				SSID: ESPDebug
 				Password: espdegugpassword
 				Login Username: admin
@@ -39,14 +40,14 @@ Step6: After entering the default Username and password the client can access th
 				Login password: admin
 
 Step7: You have done!!
+									
 
 
 
+									Features of Controlling ESP8266
+			1.	You can change Login Username and Login Password Using EEPROM.
+			2.	You can change SSID and Password Using EEPROM.
 
-					Features of Controlling ESP8266
-1.	You can change Login Username and Login Password Using EEPROM.
-2.	You can change SSID and Password Using EEPROM.
 
-
-* This is the First Version of the code. In the upcoming version you can do more features will be added.
+				This is the First Version of the code. In the upcoming version you can do more features will be added.
 
