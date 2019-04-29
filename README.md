@@ -44,10 +44,11 @@ Step7: You have done!!
 
 
 
-									Features of Controlling ESP8266
-			1.	You can change Login Username and Login Password Using EEPROM.
-			2.	You can change SSID and Password Using EEPROM.
+ Features of Controlling ESP8266
+ 
+1.	You can change Login Username and Login Password Using EEPROM.
+2.	You can change SSID and Password Using EEPROM.
 
 
-				This is the First Version of the code. In the upcoming version you can do more features will be added.
+* This is the First Version of the code. In the upcoming version you can do more features will be added.
 
