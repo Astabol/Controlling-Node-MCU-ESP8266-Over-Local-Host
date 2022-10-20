@@ -14,7 +14,7 @@ After sending “r” to the Node MCU ESP8266 it writes default value to the EEP
 The defaults values:
 
 				SSID: ESPDebug
-				Password: espdegugpassword
+				Password: espdebugpassword
 				Login Username: admin
 				Login password: admin
 
@@ -26,7 +26,7 @@ The defaults values:
 Step4: The client can access the NODE MCU ESP8266 with the valid SSID and Password.
 
 				SSID: ESPDebug
-				Password: espdegugpassword
+				Password: espdebugpassword
 
 Step5: After connecting to the Node MCU ESP8266, the client can go to the browser and type default gateway address of the Node-MCU on the address bar, after pressing "Enter" the login page of the Node MCU ESP8266 appear on the screen.
 
