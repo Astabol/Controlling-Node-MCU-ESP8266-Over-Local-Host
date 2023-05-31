@@ -1,6 +1,5 @@
 # Controlling-Node-MCU-ESP8266-Over-Local-host
 This is the project on Controlling the Node MCU ESP8266 over the local host.
-
 =====================================================================
 
 Follow the steps to control the Node MCU Over Localhost
