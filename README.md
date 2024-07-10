@@ -48,6 +48,8 @@ Step7: You have done!!
 1.	You can change Login Username and Login Password Using EEPROM.
 2.	You can change SSID and Password Using EEPROM.
 
+** A File System is developed using EEPROM.
+
 
 * This is the First Version of the code. In the upcoming version you can do more features will be added.
 
